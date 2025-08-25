@@ -1,0 +1,64 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "OMG Mine #201",
+  "description": "One of the 10000 exclusive OMG Mine on the Chia blockchain.",
+  "series_number": 201,
+  "series_total": 10000,
+  "collection": {
+    "id": "c8264765-289c-4f8b-96be-cca6870fb1e9",
+    "name": "OMG Mine",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The exclusive NFT collection OMG Mine includes 10,000 unique digital NFTs. Each of which mines OMG tokens constantly. Our slogan is BUY - SELL - HOLD - MINE. By buying NFTs you become part of the team. Forward to the digital future!"
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/omgnft-group/nfts/refs/heads/main/logo.png"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/omgnft-group/nfts/refs/heads/main/baner.png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Portal Rings"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Glass Ripple"
+    },
+    {
+      "trait_type": "Pattern Overlay",
+      "value": "Fine Grid"
+    },
+    {
+      "trait_type": "Light Effect (Background)",
+      "value": "Electric Field"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Chicken OMG \u2014 Comic Strip Stroke"
+    },
+    {
+      "trait_type": "Decor",
+      "value": "Radial Lines"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Inverted Triangle"
+    },
+    {
+      "trait_type": "Color Filter",
+      "value": "Warm Red Filter"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Dotted Border"
+    }
+  ]
+}

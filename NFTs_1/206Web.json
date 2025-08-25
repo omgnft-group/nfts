@@ -1,0 +1,64 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "OMG Mine #206",
+  "description": "One of the 10000 exclusive OMG Mine on the Chia blockchain.",
+  "series_number": 206,
+  "series_total": 10000,
+  "collection": {
+    "id": "c8264765-289c-4f8b-96be-cca6870fb1e9",
+    "name": "OMG Mine",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "The exclusive NFT collection OMG Mine includes 10,000 unique digital NFTs. Each of which mines OMG tokens constantly. Our slogan is BUY - SELL - HOLD - MINE. By buying NFTs you become part of the team. Forward to the digital future!"
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/omgnft-group/nfts/refs/heads/main/logo.png"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/omgnft-group/nfts/refs/heads/main/baner.png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pop Art Cloud"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Soft Velvet Texture"
+    },
+    {
+      "trait_type": "Pattern Overlay",
+      "value": "Comic Sounds (BOOM!, POW!)"
+    },
+    {
+      "trait_type": "Light Effect (Background)",
+      "value": "Double Halo"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Turtle OMG \u2014 Retro Futuristic Style"
+    },
+    {
+      "trait_type": "Decor",
+      "value": "Futuristic Pixels"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Infinity Sign"
+    },
+    {
+      "trait_type": "Color Filter",
+      "value": "Purple Glow"
+    },
+    {
+      "trait_type": "Frame",
+      "value": "Plasma Edge"
+    }
+  ]
+}
