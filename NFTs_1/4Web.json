@@ -1,64 +1,25 @@
 {
   "format": "CHIP-0007",
-  "sensitive_content": false,
-  "name": "OMG Mine #4",
-  "description": "One of the 10000 exclusive OMG Mine on the Chia blockchain.",
+  "sensitive_content": true,
+  "name": "HOTSPOT #4",
+  "description": "Were you a good boy today?",
   "series_number": 4,
-  "series_total": 10000,
   "collection": {
-    "id": "c8264765-289c-4f8b-96be-cca6870fb1e9",
-    "name": "OMG Mine",
+    "id": "98dab48e-33b0-4854-92fc-bd469be499aa",
+    "name": "HOTSPOT",
     "attributes": [
       {
         "type": "description",
-        "value": "The exclusive NFT collection OMG Mine includes 10,000 unique digital NFTs. Each of which mines OMG tokens constantly. Our slogan is BUY - SELL - HOLD - MINE. By buying NFTs you become part of the team. Forward to the digital future!"
+        "value": "The collection is designed to meet all your needs."
       },
       {
         "type": "icon",
-        "value": "https://raw.githubusercontent.com/omgnft-group/nfts/refs/heads/main/logo.png"
+        "value": "https://raw.githubusercontent.com/ChiaPals/tst/refs/heads/main/icon.png"
       },
       {
         "type": "banner",
-        "value": "https://raw.githubusercontent.com/omgnft-group/nfts/refs/heads/main/baner.png"
+        "value": "https://raw.githubusercontent.com/ChiaPals/tst/refs/heads/main/banner.png"
       }
     ]
-  },
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Bright Comic Zigzag"
-    },
-    {
-      "trait_type": "Texture",
-      "value": "Rough Wood"
-    },
-    {
-      "trait_type": "Pattern Overlay",
-      "value": "Large Dots"
-    },
-    {
-      "trait_type": "Light Effect (Background)",
-      "value": "Soft Glow"
-    },
-    {
-      "trait_type": "Character",
-      "value": "Living Tree OMG \u2014 Classic Outline"
-    },
-    {
-      "trait_type": "Decor",
-      "value": "Energy Bursts"
-    },
-    {
-      "trait_type": "Symbol",
-      "value": "Eye"
-    },
-    {
-      "trait_type": "Color Filter",
-      "value": "Reality Warp"
-    },
-    {
-      "trait_type": "Frame",
-      "value": "Dotted Border"
-    }
-  ]
+  }
 }
